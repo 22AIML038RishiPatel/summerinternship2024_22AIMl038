@@ -6,12 +6,10 @@
 ### May 13th 2024
 
 ### Introduction
- I have done my intenship at Mamo Technolabs as a Python Developer. My internship focuses on enhancing my Python programming skills through hands-on projects and real-world applications. At Mamo Technolabs, I 
- collaborate on innovative software solutions, gaining experience in web development, data analysis, and automation. This opportunity allows me to learn industry best practices and contribute to impactful projects.
+ I completed my internship at Mamo Technolabs as a Python Developer. My internship focused on enhancing my Python programming skills through hands-on projects and real-world applications. At Mamo Technolabs, I collaborated on innovative software solutions, gaining experience in web development, data analysis, and automation. This opportunity allowed me to learn industry best practices and contribute to impactful projects.
 
 ### Responsibility
- My responsibilities include developing and maintaining Python-based applications, collaborating with the development team on various projects, writing and optimizing code for performance, and debugging and 
- troubleshooting software issues. This internship allows me to gain practical experience and enhance my skills in a professional setting.
+ My responsibilities included developing and maintaining Python-based applications, collaborating with the development team on various projects, writing and optimizing code for performance, and debugging and troubleshooting software issues. This internship allowed me to gain practical experience and enhance my skills in a professional setting.
 
  # Weekly Progress
 
@@ -45,7 +43,7 @@
    - An email extraction tool or browser extension was utilized to automatically extract email addresses from the search results, identifying a total of 46 email addresses.
    - The tool streamlined the data collection process by automatically scanning and extracting relevant email addresses, reducing the need for manual effort and increasing efficiency.
    - The extracted email addresses were displayed in a sidebar, with options to copy and export the data in various formats (TXT, CSV), facilitating easy integration into further data analysis or outreach 
-    activities.
+     activities.
 
    <img src="https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/59ab2b96-924b-4202-8135-f9e9906fe1a8" width="500" height="300" />
 
@@ -54,13 +52,13 @@
      information. The connection string is then used to create an engine for database interactions.
    ### Data Fetching and Updating Excel Sheet:
    - The code includes functions to fetch data from specified tables in the database and update an Excel sheet with this data using the xlwings library. The fetch_data_from_database function retrieves all rows nd 
-    column names from the selected table, and update_excel_sheet writes this data into the specified Excel sheet.
+     column names from the selected table, and update_excel_sheet writes this data into the specified Excel sheet.
 
  ## Week 5: June 10th - June 15th
  ### Uploading Data from Excel to Database:
    - Another function, main_u, reads data from an Excel sheet, processes it into a pandas DataFrame, and uploads it to the specified table in the database. This includes converting column names to lowercase and 
      handling potential exceptions with appropriate error messages using the win32api library.
-   - I have start work on project of AI ChatBot for the company. First company give the individual task for the project.
+   - I started working on a project for an AI ChatBot for the company, where I was given individual tasks to contribute to the project.
 
  ## Week 6: June 17th - June 22th
 
