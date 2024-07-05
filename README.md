@@ -47,7 +47,7 @@
    - The extracted email addresses were displayed in a sidebar, with options to copy and export the data in various formats (TXT, CSV), facilitating easy integration into further data analysis or outreach 
     activities.
 
-   ![Week_3](https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/59ab2b96-924b-4202-8135-f9e9906fe1a8)
+   <img src="https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/59ab2b96-924b-4202-8135-f9e9906fe1a8" width="50" height="50" />
 
  ## Week 4: June 3rd - June 8th
    - The code sets up a connection to a PostgreSQL database using credentials stored in environment variables. These variables are loaded using the dotenv library, ensuring secure handling of sensitive 
