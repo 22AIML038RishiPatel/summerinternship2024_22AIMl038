@@ -60,7 +60,20 @@
  ## Uploading Data from Excel to Database:
    - Another function, main_u, reads data from an Excel sheet, processes it into a pandas DataFrame, and uploads it to the specified table in the database. This includes converting column names to lowercase and 
      handling potential exceptions with appropriate error messages using the win32api library.
-   - I have start work on project of AI ChatBot for the company. First company give the individual task for the project.  
+   - I have start work on project of AI ChatBot for the company. First company give the individual task for the project.
+
+ ## Week 6: June 17th - June 22th
+
+
+
+
+
+  ## Skill Learned
+   - Proficiency in using Python libraries like BeautifulSoup and Scrapy for web scraping and extracting data from websites.
+   - Experience in connecting to and managing databases, including tasks such as uploading and retrieving data using libraries like SQLAlchemy.
+   - Skills in automating data upload to Excel and loading data from Excel to a database using tools like xlwings.
+   - Ability to handle and process data efficiently, ensuring accuracy and usability, and automating repetitive tasks to improve workflow efficiency.
+   - These skills will be valuable for various roles in data science, software development, and database management.
  
 
 
