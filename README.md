@@ -1,3 +1,4 @@
+
 # summerinternship2024_22AIMl038
 
 ## 13th May 2024
@@ -32,6 +33,33 @@
    ## Data Storage and Management:
    - Store the scraped data in a structured format, such as CSV or a database (e.g., SQLite, MongoDB), ensuring easy access and analysis.
      Regularly update and maintain the dataset to reflect the latest information from Clutch.co.
-   ## Data Validation:
    - Cross-check the extracted data with source information to ensure accuracy.
    - Use validation techniques to clean and standardize the data, removing duplicates and inconsistencies.
+
+     ![Intenship](https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/e0185a8a-c373-439c-a828-39d8a529294a)
+
+  ## Week 3: May 27th - Jaun 1st
+   - A detailed Google search query was executed to find email addresses of individuals with roles such as CEO, CFO, and HR, specifically in the cyber security field and located in Boston. The search targeted 
+     email addresses from domains like gmail.com, hotmail.com, and yahoo.com.
+   ## Using an Email Extraction Tool:
+   - An email extraction tool or browser extension was utilized to automatically extract email addresses from the search results, identifying a total of 46 email addresses.
+   - The tool streamlined the data collection process by automatically scanning and extracting relevant email addresses, reducing the need for manual effort and increasing efficiency.
+   - The extracted email addresses were displayed in a sidebar, with options to copy and export the data in various formats (TXT, CSV), facilitating easy integration into further data analysis or outreach 
+    activities.
+   ![Week_3](https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/59ab2b96-924b-4202-8135-f9e9906fe1a8)
+
+ ## Week 4: June 3rd - June 8th
+   - The code sets up a connection to a PostgreSQL database using credentials stored in environment variables. These variables are loaded using the dotenv library, ensuring secure handling of sensitive 
+     information. The connection string is then used to create an engine for database interactions.
+   ## Data Fetching and Updating Excel Sheet:
+   - The code includes functions to fetch data from specified tables in the database and update an Excel sheet with this data using the xlwings library. The fetch_data_from_database function retrieves all rows nd 
+    column names from the selected table, and update_excel_sheet writes this data into the specified Excel sheet.
+   ## Uploading Data from Excel to Database:
+   - Another function, main_u, reads data from an Excel sheet, processes it into a pandas DataFrame, and uploads it to the specified table in the database. This includes converting column names to lowercase and 
+     handling potential exceptions with appropriate error messages using the win32api library
+
+
+
+
+
+
