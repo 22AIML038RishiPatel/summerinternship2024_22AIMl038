@@ -46,6 +46,7 @@
    - The tool streamlined the data collection process by automatically scanning and extracting relevant email addresses, reducing the need for manual effort and increasing efficiency.
    - The extracted email addresses were displayed in a sidebar, with options to copy and export the data in various formats (TXT, CSV), facilitating easy integration into further data analysis or outreach 
     activities.
+
    ![Week_3](https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/59ab2b96-924b-4202-8135-f9e9906fe1a8)
 
  ## Week 4: June 3rd - June 8th
@@ -54,9 +55,13 @@
    ## Data Fetching and Updating Excel Sheet:
    - The code includes functions to fetch data from specified tables in the database and update an Excel sheet with this data using the xlwings library. The fetch_data_from_database function retrieves all rows nd 
     column names from the selected table, and update_excel_sheet writes this data into the specified Excel sheet.
-   ## Uploading Data from Excel to Database:
+
+ ## Week 5: June 10th - June 15th
+ ## Uploading Data from Excel to Database:
    - Another function, main_u, reads data from an Excel sheet, processes it into a pandas DataFrame, and uploads it to the specified table in the database. This includes converting column names to lowercase and 
-     handling potential exceptions with appropriate error messages using the win32api library
+     handling potential exceptions with appropriate error messages using the win32api library.
+   - I have start work on project of AI ChatBot for the company. First company give the individual task for the project.  
+ 
 
 
 
