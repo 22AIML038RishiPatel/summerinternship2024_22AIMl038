@@ -66,8 +66,6 @@
 
 
 
-
-
   ## Skill Learned
    - Proficiency in using Python libraries like BeautifulSoup and Scrapy for web scraping and extracting data from websites.
    - Experience in connecting to and managing databases, including tasks such as uploading and retrieving data using libraries like SQLAlchemy.
