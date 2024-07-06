@@ -36,7 +36,7 @@ My responsibilities included:
 - Cross-checked the extracted data with source information to ensure accuracy.
 - Used validation techniques to clean and standardize the data, removing duplicates and inconsistencies.
 
-![Internship](https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/e0185a8a-c373-439c-a828-39d8a529294a)
+<img src="https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/e0185a8a-c373-439c-a828-39d8a529294a" width="500" height="300" alt="Internship" />
 
 ### 🗓️ Week 3: May 27th - June 1st
 - Executed a detailed Google search query to find email addresses of individuals with roles such as CEO, CFO, and HR in the cybersecurity field located in Boston.
@@ -47,7 +47,7 @@ My responsibilities included:
 - Streamlined the data collection process, reducing manual effort and increasing efficiency.
 - Exported the extracted email addresses in various formats (TXT, CSV), facilitating easy integration into further data analysis or outreach activities.
 
-![Internship](https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/59ab2b96-924b-4202-8135-f9e9906fe1a8)
+<img src="https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/59ab2b96-924b-4202-8135-f9e9906fe1a8" width="500" height="300" alt="Internship" />
 
 ### 🗓️ Week 4: June 3rd - June 8th
 - Set up a connection to a PostgreSQL database using credentials stored in environment variables. Loaded these variables using the dotenv library to ensure secure handling of sensitive information.
@@ -89,4 +89,4 @@ My responsibilities included:
 - These skills will be valuable for various roles in data science, software development, and database management.
 
 ### 🎓 Conclusion
-Overall, this internship has been a valuable learning experience. I gained practical skills in Python development, visualization, and automation using Python. The projects I worked on have provided me with insights into real-world data challenges and solutions. I am grateful for the opportunity to contribute to the team and grow as a Python Developer.
+Overall, this internship has been a valuable learning experience. I gained practical skills in Python development, visualization, and automation using Python. The projects I worked on have provided me with insights into real-world data challenges and solutions. I am grateful for the opportunity to contribute to the team and grow
