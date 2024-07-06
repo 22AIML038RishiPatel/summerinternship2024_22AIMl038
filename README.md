@@ -13,7 +13,7 @@
 
  # Weekly Progress
 
- ### Week 1: May 13th - May 18th
+ ### 1️⃣ Week 1: May 13th - May 18th
  - My first task involves extracting company profiles and LinkedIn profiles from the website clutch.co. This entails scraping relevant data, ensuring data accuracy, and addressing any errors that arise during the 
    extraction process. Utilizing Python libraries such as BeautifulSoup and Scrapy.
  - This project will help me hone my web scraping and data handling skills, ensuring that I deliver accurate and reliable results while adhering to best practices in ethical web scraping and data privacy.
@@ -22,7 +22,7 @@
     ### Set Up the Environment: 
  - Prepare the development environment with the necessary Python libraries and tools, including BeautifulSoup, Scrapy, Requests, and Pandas for data manipulation.
 
- ## Week 2: May 20th - May 25th
+ ## 2️⃣ Week 2: May 20th - May 25th
    ### Web Scraping Implementation:
    - Crawling:
          Use Scrapy to navigate through the website’s structure, ensuring efficient and comprehensive data collection.
@@ -36,7 +36,7 @@
 
    <img src="https://github.com/22AIML038RishiPatel/summerinternship2024_22AIMl038/assets/120238486/e0185a8a-c373-439c-a828-39d8a529294a" width="500" height="300" alt="Internship" />
 
-  ## Week 3: May 27th - Jaun 1st
+  ## 3️⃣ Week 3: May 27th - Jaun 1st
    - A detailed Google search query was executed to find email addresses of individuals with roles such as CEO, CFO, and HR, specifically in the cyber security field and located in Boston. The search targeted 
      email addresses from domains like gmail.com, hotmail.com, and yahoo.com.
    ### Using an Email Extraction Tool:
