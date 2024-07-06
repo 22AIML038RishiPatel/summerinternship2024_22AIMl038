@@ -61,8 +61,22 @@
    - I started working on a project for an AI ChatBot for the company, where I was given individual tasks to contribute to the project.
 
  ## Week 6: June 17th - June 22th
+   ### Objective:
+   - Develop a chatbot using NLP to simulate human-like conversations and respond meaningfully to user queries.
 
+   ### Methodology:
+   - Preprocessing: Tokenization and lemmatization of text data.
+   - Vectorization: Using TF-IDF to convert text into numerical vectors.
+   - Response Generation: Matching user inputs with appropriate responses using cosine similarity.
+ 
+   ### Implementation:
+   - Environment setup: Installing necessary libraries and configuring development environment.
+   - Processing the corpus: Reading and preparing text data.
+   - Keyword matching: Handling common greetings and interactions.
+   - Continuous user interaction: Ensuring ongoing dialogue and appropriate response handling.
 
+   ### Testing and feedback: 
+   - Comprehensive testing and user feedback to improve performance and user experience.
 
   ## Skill Learned
    - Proficiency in using Python libraries like BeautifulSoup and Scrapy for web scraping and extracting data from websites.
