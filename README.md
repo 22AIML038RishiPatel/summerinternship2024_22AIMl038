@@ -1,4 +1,4 @@
-# 🌞 Summer Internship 2024 - Python Developer at Mamo Technolabs
+# Summer Internship 2024 - Python Developer at Mamo Technolabs
 
 ## 📅 May 13th, 2024
 
@@ -19,10 +19,10 @@ My responsibilities included:
 - Ensured data accuracy and addressed errors during the extraction process.
 - Adhered to best practices in ethical web scraping and data privacy.
 
-#### 📌 Define the Scope
+#### Define the Scope
 - Identified specific data points needed from Clutch.co, such as company names, profiles, LinkedIn URLs, reviews, ratings, services offered, and contact information.
 
-#### 🔧 Set Up the Environment
+#### Set Up the Environment
 - Prepared the development environment with necessary Python libraries and tools, including BeautifulSoup, Scrapy, Requests, and Pandas for data manipulation.
 
 ### 🗓️ Week 2: May 20th - May 25th
@@ -30,7 +30,7 @@ My responsibilities included:
 - **Crawling:** Used Scrapy to navigate through the website’s structure, ensuring efficient and comprehensive data collection.
 - **Parsing:** Employed BeautifulSoup to parse the HTML content and extract relevant information.
 
-#### 💾 Data Storage and Management
+#### Data Storage and Management
 - Stored the scraped data in a structured format, such as CSV or a database (e.g., SQLite, MongoDB), ensuring easy access and analysis.
 - Regularly updated and maintained the dataset to reflect the latest information from Clutch.co.
 - Cross-checked the extracted data with source information to ensure accuracy.
@@ -42,7 +42,7 @@ My responsibilities included:
 - Executed a detailed Google search query to find email addresses of individuals with roles such as CEO, CFO, and HR in the cybersecurity field located in Boston.
 - Targeted email addresses from domains like gmail.com, hotmail.com, and yahoo.com.
 
-#### ✉️ Using an Email Extraction Tool
+#### Using an Email Extraction Tool
 - Utilized an email extraction tool or browser extension to automatically extract email addresses from search results, identifying a total of 46 email addresses.
 - Streamlined the data collection process, reducing manual effort and increasing efficiency.
 - Exported the extracted email addresses in various formats (TXT, CSV), facilitating easy integration into further data analysis or outreach activities.
@@ -53,32 +53,32 @@ My responsibilities included:
 - Set up a connection to a PostgreSQL database using credentials stored in environment variables. Loaded these variables using the dotenv library to ensure secure handling of sensitive information.
 - Created an engine for database interactions using the connection string.
 
-#### 📊 Data Fetching and Updating Excel Sheet
+#### Data Fetching and Updating Excel Sheet
 - Implemented functions to fetch data from specified tables in the database and update an Excel sheet with this data using the xlwings library.
 - The `fetch_data_from_database` function retrieved all rows and column names from the selected table, and `update_excel_sheet` wrote this data into the specified Excel sheet.
 
 ### 🗓️ Week 5: June 10th - June 15th
-#### ⬆️ Uploading Data from Excel to Database
+#### Uploading Data from Excel to Database
 - Implemented a function, `main_u`, that reads data from an Excel sheet, processes it into a pandas DataFrame, and uploads it to the specified table in the database.
 - Converted column names to lowercase and handled potential exceptions with appropriate error messages using the win32api library.
 - Began working on a project for an AI ChatBot for the company, contributing individual tasks to the project.
 
 ### 🗓️ Week 6: June 17th - June 22nd
-#### 🎯 Objective
+#### Objective
 - Developed a chatbot using NLP to simulate human-like conversations and respond meaningfully to user queries.
 
-#### 🧠 Methodology
+#### Methodology
 - **Preprocessing:** Tokenization and lemmatization of text data.
 - **Vectorization:** Used TF-IDF to convert text into numerical vectors.
 - **Response Generation:** Matched user inputs with appropriate responses using cosine similarity.
 
-#### 🚀 Implementation
+#### Implementation
 - **Environment setup:** Installed necessary libraries and configured the development environment.
 - **Processing the corpus:** Read and prepared text data.
 - **Keyword matching:** Handled common greetings and interactions.
 - **Continuous user interaction:** Ensured ongoing dialogue and appropriate response handling.
 
-#### 🛠️ Testing and Feedback
+#### Testing and Feedback
 - Conducted comprehensive testing and collected user feedback to improve performance and user experience.
 
 ### 🛠️ Skills Learned
