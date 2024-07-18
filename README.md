@@ -89,4 +89,4 @@ My responsibilities included:
 - These skills will be valuable for various roles in data science, software development, and database management.
 
 ### 🎓 Conclusion
-Overall, this internship has been a valuable learning experience. I gained practical skills in Python development, visualization, and automation using Python. The projects I worked on have provided me with insights into real-world data challenges and solutions. I am grateful for the opportunity to contribute to the team and grow
+Overall, this internship has been a valuable learning experience. I gained practical skills in Python development, visualization, and automation using Python. The projects I worked on have provided me with insights into real-world data challenges and solutions. I am grateful for the opportunity to contribute to the team and grow.
